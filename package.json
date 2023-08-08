@@ -1,0 +1,26 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "This is a project for Week 9 of the UofT Coding Bootcamp where we generate a code that is able to create a README file using only command line prompts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temuts/README-Generator.git"
+  },
+  "keywords": [
+    "readme",
+    "npm"
+  ],
+  "author": "Temuulen Tsengel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temuts/README-Generator/issues"
+  },
+  "homepage": "https://github.com/temuts/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
